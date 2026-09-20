@@ -1,10 +1,15 @@
 Oracle Pluggable Database Management – Assignment II
 
 Student: Diane UMUTONIWASE
+
 Student ID: 29787
+
 Group: I
+
 Course: Database Development with PL/SQL (INSY 8311)
+
 Oracle Version: Oracle Database 21c Enterprise Edition 21.3.0.0
+
 Operating System: Microsoft Windows 64-bit
 
 
